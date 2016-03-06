@@ -1,5 +1,7 @@
 # check-if-mobile-wifi
-Checks if your computer is on a hotspot whose name start with certain string, if so returns True. Needs nmcli to be installed, so useful for Linux and similar.
+Checks if your computer is on a hotspot whose name start with a certain string, if so returns True. Needs nmcli to be installed, so useful for Linux and similar.
+
+The purpose is to check if it is a good idea to transfer a lot of files. So if you are using a mobile hotspot from your phone you may not want to do that.
 
 Usage
 
