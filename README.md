@@ -11,4 +11,4 @@ Usage
     checkmobilewifi.on_mobile() 
 
     # This one checks for if hotspot name starts with "FooBar" on adapter "wlan1"
-    checkmobilewifi.on_mobile(prefix_identifier = "G2", wireless_identifier = 'wlan1')
+    checkmobilewifi.on_mobile(prefix_identifier = 'G2', wireless_identifier = 'wlan1')
